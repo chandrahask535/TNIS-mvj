@@ -1,0 +1,5 @@
+### This file is managed by Gitpod. Any manual changes will be lost.
+
+Host *.vss.gitpod.io
+  StrictHostKeyChecking no
+  ProxyCommand "c:\Users\ASUS\AppData\Roaming\Code\User\globalStorage\gitpod.gitpod-desktop\sshproxy\proxylauncher.bat" "C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\Code.exe" "c:\Users\ASUS\AppData\Roaming\Code\User\globalStorage\gitpod.gitpod-desktop\sshproxy\proxy.js" --ms-enable-electron-run-as-node %h 43025 8546551e53716dd1dfbb5b7842508137792c299a38fd57997f6e275570d9ed0a none "c:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\resources\app" "c:\Users\ASUS\.vscode\extensions"
