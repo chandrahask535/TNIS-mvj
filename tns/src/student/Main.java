@@ -1,6 +1,4 @@
 package student;
-
-
 //Student class
 class Student {
 // Default constructor
@@ -8,7 +6,6 @@ public Student() {
    System.out.println("Student object is created");
 }
 }
-
 
 //Commission class
 class Commission {
@@ -49,11 +46,6 @@ public void displayCommissionDetails() {
    System.out.println("Commission: " + commission);
 }
 }
-
-
-
-
-
 
 public class Main {
  public static void main(String[] args) {
