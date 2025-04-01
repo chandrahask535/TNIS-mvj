@@ -1,9 +1,9 @@
 package circle_data;
 import java.util.Scanner;
+
 class Circle {
     private double radius;
     private String color;
-
     // Method to accept details of the circle
     public void getInput() {
         Scanner scanner = new Scanner(System.in);
