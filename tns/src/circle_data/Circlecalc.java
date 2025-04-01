@@ -22,7 +22,6 @@ class Circle {
         System.out.println("Area: " + area);
     }
 }
-
 public class Circlecalc {
     public static void main(String[] args) {
         // Create a Circle object
