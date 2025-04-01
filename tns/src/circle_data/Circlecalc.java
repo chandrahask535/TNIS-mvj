@@ -13,7 +13,6 @@ class Circle {
         color = scanner.next();
         scanner.close();
     }
-
     // Method to calculate the area of the circle
     public void calcArea() {
         double area = Math.PI * radius * radius;
@@ -22,6 +21,7 @@ class Circle {
         System.out.println("Area: " + area);
     }
 }
+
 public class Circlecalc {
     public static void main(String[] args) {
         // Create a Circle object
